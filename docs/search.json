@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-09-01T20:46:46+07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "H-lallo Learn Website",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          H-lallo Learn Website\r\n          \r\n          \r\n          Home\r\n          About\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            H-lallo Learn Website\r\n          \r\n          \r\n            \r\n              Raised in New Jersey by two lawyers, I am now an\r\n              aspiring data artist and competitive rock climber. I moved\r\n              to Seattle to fly floatplanes, but I got caught up in the\r\n              startup world. Send me a WhatsApp message if you have good\r\n              turnip prices.\r\n            \r\n            \r\n              Raised in New Jersey by two lawyers, I am now an\r\n              aspiring data artist and competitive rock climber. I moved\r\n              to Seattle to fly floatplanes, but I got caught up in the\r\n              startup world. Send me a WhatsApp message if you have good\r\n              turnip prices.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2023-09-01T20:49:23+07:00"
+    }
+  ],
+  "collections": []
+}
