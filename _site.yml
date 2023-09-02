@@ -1,8 +1,9 @@
 name: "."
-title: "H-lallo Website"
+title: "Home"
 description: |
   H-lallo Website
 output_dir: "docs"
+theme: hlallo-theme.css
 navbar:
   right:
     - text: "Home"
