@@ -1,15 +1,11 @@
 ---
-title: "Frank Hermosillo"
-image: "frank.jpg"
+title: "H-lallo Website"
+image: "images/harun.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
+  - label: Instagram
+    url: "https://instagram.com/hd03.00?utm_source=qr&igshid=MThlNWY1MzQwNA=="
   - label: Twitter
-    url: "https://twitter.com/"
-  - label: GitHub
-    url: "https://github.com/"
-  - label: Email
-    url: "mailto:email@email.com"
+    url: "Not Available"
 output:
   postcards::trestles
 site: distill::distill_website
@@ -17,25 +13,21 @@ site: distill::distill_website
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+H-lallo studies RStudio. His major is Math and focuses on RStudio for Data Analisis.
+This website was built completelly RStudio using distiil package.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**Public Junior High School 1 Mamasa** | Mamasa, INA
 
-Ph.D. in Computer Science | September 2009 - May 2014
+**Rantepao Catholic High School** | Toraja, INA
 
-**The University of California, Berkeley** | Berkeley, CA
+**Sam Ratulangi University** | Manado, INA
 
-B.S. in Computer Science | September 2005 - May 2009
 
-## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+## Actifities
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**English courses** | Kampung Inggris Bandung E-PLC | March 2023 - Present
+
+**Learn RStudio** | Self-Study | Present

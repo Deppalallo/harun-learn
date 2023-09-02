@@ -1,7 +1,7 @@
 name: "."
-title: "H-lallo Learn Website"
+title: "H-lallo Website"
 description: |
-  H-lallo Learn Website
+  H-lallo Website
 output_dir: "docs"
 navbar:
   right:
